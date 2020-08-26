@@ -54,7 +54,7 @@ class AVLTree:
     of the new parent. 
     """
     def left_rotate(self):
-        pass
+        
 
     """
     Perform a right rotation, making the left child of this

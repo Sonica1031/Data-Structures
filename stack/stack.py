@@ -16,10 +16,10 @@ class Stack:
         # self.storage = ?
 
     def __len__(self):
-        pass
+        self.len = []
 
     def push(self, value):
-        pass
+        self.len.push(value)
 
     def pop(self):
-        pass
+        self.len.pop()
